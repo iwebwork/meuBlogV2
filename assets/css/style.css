@@ -1,0 +1,63 @@
+body{
+    font-family: 'Hina Mincho','sans-serif' !important;
+    font-size:18px !important;
+    font-style: normal;
+    font-weight: normal;
+    background-color: rgba(235, 238, 240, 0.9) !important;
+}
+
+.header {
+    background-color: rgba(241, 234, 234, 0) !important;
+    font-size: large;
+}
+
+.nav-style{
+    color: #f0e9e2 !important;
+    border-radius: 2px !important;
+    margin-bottom: 2px !important;
+    margin-right: 30px !important;
+}
+
+.nav-style:hover{
+    border-radius: 3px !important;
+    color: #75624b !important;
+    background-color: #f0e9e2;
+
+}
+
+.backgroundOne{
+    background-image: url('../imgs/fundo1.png');
+    background-repeat: no-repeat !important;
+    background-size: cover;
+    transform: translate3d(0px, 0px, 0px);
+    max-height: 450px;
+    max-width: 100%;
+    z-index: -1;
+}
+
+.style-about{
+    color: #e9e8e8 !important;
+}
+
+.btnCard{
+    font-size:20px !important;
+    margin: 0 !important;
+
+}
+
+.btnCard:hover{
+    color: rgb(102, 102, 109) !important;
+}
+
+.btn-card-style{
+    padding: 10px;
+}
+.btn-card-style:hover{
+    background-color: #e6e0d8;
+}
+.myImage{
+    background-repeat:no-repeat;
+    max-width:400px !important;
+    max-height:480px !important;
+    margin-top:-140px !important;
+}
