@@ -100,7 +100,7 @@
                         <div class="col-lg"  style="margin-top:10px !important">
                             <div class="card" style="border:6px solid #dee2e6 !important">
                                 <div class="card-header text-center">
-                                    Linguagens
+                                    languages
                                 </div>
                                 <div class="card-body">
                                     <table class="table">
