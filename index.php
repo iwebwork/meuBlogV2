@@ -35,8 +35,15 @@
 
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous"/>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"/>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
 
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Source+Serif+Pro:ital@1&display=swap" rel="stylesheet">
         <!-- <script>var Alert = ReactBootstrap.Alert;</script> -->
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Source+Serif+Pro:ital@1&display=swap" rel="stylesheet">
 
         <title>Igor Siqueira da Silva</title>
     </head>
@@ -123,20 +130,22 @@
                                                 <td>Solid knowledge</td>
                                             </tr>
                                             <tr>
+                                                <th scope="row">4</th>
+                                                <td>Delphi</td>
+                                                <td>Solid knowledge</td>
+                                            </tr>
+                                            <tr>
                                                 <th scope="row">3</th>
                                                 <td>Java</td>
                                                 <td>Intermediate knowledge</td>
                                             </tr>
                                             <tr>
-                                                <th scope="row">4</th>
-                                                <td>Delphi</td>
-                                                <td>Intermediate knowledge</td>
-                                            </tr>
-                                            <tr>
                                                 <th scope="row">5</th>
                                                 <td>Python</td>
-                                                <td>Basic knowledge</td>
+                                                <td>Intermediate knowledge</td>
                                             </tr>
+                                            
+                                            
                                             <tr>
                                                 <th scope="row">6</th>
                                                 <td>C#</td>
@@ -319,7 +328,7 @@
                                         <div class="row justify-content-center btn-card-style">
                                             <a target="_blank" class="text-center" href="https://www.atenaeditora.com.br/post-artigo/52691" style="text-decoration: none !important">
                                                 <div class="col-sm btnCard h5" style="color:#000000 !important">
-                                                    Git
+                                                    Atena Editora
                                                 </div>
                                             </a>
                                         </div>
